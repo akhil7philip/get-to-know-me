@@ -1,0 +1,6 @@
+requests==2.31.0
+flask==2.3.3
+flask[async]==2.3.3
+aiohttp
+python-dotenv==1.0.0
+gunicorn==20.1.0
